@@ -1,0 +1,18 @@
+/* 
+    Document   : resumeCSS
+    Created on : Aug 27, 2013, 2:37:00 PM
+    Author     : Chumples
+    Description:
+        Purpose of the stylesheet follows.
+*/
+    
+    body {background-color:#d0e4fe;}
+    h2 {text-align:center;}
+    h4 {text-align:center; text-decoration:underline;}
+    #para1 {text-align:center;}
+    #para2 {padding:0cm 6cm 0cm 6cm; text-align:center;}
+    #para3 {padding-left:6cm;}
+    ul {padding-left:7cm;}
+    
+
+
